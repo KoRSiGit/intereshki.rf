@@ -1,0 +1,1 @@
+const n=t=>{const e=Date.now()-t.getTime(),a=new Date(e);return Math.abs(a.getUTCFullYear()-1970)},r=t=>({avif:t.find(e=>e.format==="avif").src,webp:t.find(e=>e.format==="webp").src,png:t.find(e=>e.format==="png").src});export{n as c,r as g};

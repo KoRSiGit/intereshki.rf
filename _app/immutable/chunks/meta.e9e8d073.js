@@ -1,0 +1,1 @@
+const t="https://ityum.online",s=["ИнтеРешки","Молодой Журналист","Interesting","Journalist","Open Source"],e="I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",i="ИнтеРешки",n=`${t}/images/site-preview.png`;export{e as d,n as i,s as k,t as s,i as t};
