@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<!-- Favicon -->
+		<link
+				rel="apple-touch-icon"
+				sizes="180x180"
+				href="./favicons/apple-touch-icon.png"
+		/>
+		<link
+				rel="icon"
+				type="image/png"
+				sizes="32x32"
+				href="./favicons/favicon-32x32.png"
+		/>
+		<link
+				rel="icon"
+				type="image/png"
+				sizes="16x16"
+				href="./favicons/favicon-16x16.png"
+		/>
+		<link rel="manifest" href="./favicons/site.webmanifest" />
+		<link
+				rel="mask-icon"
+				href="./favicons/safari-pinned-tab.svg"
+				color="#0ca4a5"
+		/>
+		<link rel="shortcut icon" href="./favicons/favicon.ico" />
+		<link rel="icon" href="./favicons/favicon.svg" />
+
+		<!-- Tell browser this site is responsive -->
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!-- Tell browser this site supports light and dark mode -->
+		<meta name="color-scheme" content="light dark" />
+		<!-- Color for browser url bar in mobile/Safari -->
+		<meta name="theme-color" media="(prefers-color-scheme: light)" content="#C2E6E9" />
+		<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#163F45" />
+		<!-- Disable Google FLOC -->
+		<meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
+		<script>
+			!(function (t, e) {
+				var o, n, p, r;
+				e.__SV ||
+				((window.posthog = e),
+						(e._i = []),
+						(e.init = function (i, s, a) {
+							function g(t, e) {
+								var o = e.split('.');
+								2 == o.length && ((t = t[o[0]]), (e = o[1])),
+										(t[e] = function () {
+											t.push([e].concat(Array.prototype.slice.call(arguments, 0)));
+										});
+							}
+							((p = t.createElement('script')).type = 'text/javascript'),
+									(p.async = !0),
+									(p.src = s.api_host + '/static/array.js'),
+									(r = t.getElementsByTagName('script')[0]).parentNode.insertBefore(p, r);
+							var u = e;
+							for (
+									void 0 !== a ? (u = e[a] = []) : (a = 'posthog'),
+											u.people = u.people || [],
+											u.toString = function (t) {
+												var e = 'posthog';
+												return 'posthog' !== a && (e += '.' + a), t || (e += ' (stub)'), e;
+											},
+											u.people.toString = function () {
+												return u.toString(1) + '.people (stub)';
+											},
+											o =
+													'capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags'.split(
+															' '
+													),
+											n = 0;
+									n < o.length;
+									n++
+							)
+								g(u, o[n]);
+							e._i.push([i, s, a]);
+						}),
+						(e.__SV = 1));
+			})(document, window.posthog || []);
+			posthog.init('phc_elh6WwUWngYZqKF732lxezo849HB2xfHh9MQyzyS8ZE', {
+				api_host: 'https://eu.posthog.com'
+			});
+		</script>
+		<script>
+			// Calling this here so that it loads as quickly as possible
+			// Avoiding a flash of light mode in case dark mode is used
+			const theme = localStorage.getItem('theme-preference') || 'auto';
+			document.firstElementChild?.setAttribute('data-theme', theme);
+		</script>
+
+		<meta http-equiv="content-security-policy" content="">
+		<link href="./_app/immutable/assets/_layout.7f12cfd3.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/_layout.be2cb9a3.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/Footer.e70644c8.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/Tag.af0d4b2c.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/SrcsetImage.ac9bdec6.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/Callout.f5800320.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.b50570a7.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.574fe938.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.db4dbc12.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.12cfb96a.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper.41c905a7.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/_layout.svelte.556a8d2e.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/_layout.ts.984db11e.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/_layout.da46b06b.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/(geocard)-layout.svelte.d2061866.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/Footer.9a6fa52e.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/github.3da6c445.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/Tag.d23c10e2.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/dateformat.e6697b77.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/meta.5675ef3f.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/SrcsetImage.2652d54c.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/(geocard)-bering-page.md.6c663253.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/functions.7e0877cd.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/Callout.8034044f.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/check.cd44491c.js"><title>Витус Беринг - ИнтеРешки</title><!-- HEAD_svelte-gfpf6i_START --><meta name="keywords" content="Русские путешественники, ИнтеРешки, Молодой Журналист, Interesting, Journalist, Open Source">
+
+		<meta name="description" content="Офицер российского флота, капитан-командор. По происхождению датчанин. Его имя, адаптированное на русский язык - Иван Беринг.">
+		<meta property="og:description" content="Офицер российского флота, капитан-командор. По происхождению датчанин. Его имя, адаптированное на русский язык - Иван Беринг.">
+		<meta name="twitter:description" content="Офицер российского флота, капитан-командор. По происхождению датчанин. Его имя, адаптированное на русский язык - Иван Беринг.">
+
+		
+		<meta property="og:title" content="Витус Беринг - ИнтеРешки">
+		<meta name="twitter:title" content="Витус Беринг - ИнтеРешки">
+
+		<meta property="og:image" content="https://ityum.online//_app/immutable/assets/cover.369bec90.png">
+			<meta name="twitter:image" content="https://ityum.online//_app/immutable/assets/cover.369bec90.png"><!-- HEAD_svelte-gfpf6i_END -->
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div id="svelte-root">
+
+
+
+<div class="article-layout svelte-16rhd84"><header class="svelte-8qjn1o has-background"><nav class="container svelte-8qjn1o"><a class="logo svelte-8qjn1o" href="/" aria-label="Site logo"><div class="logo svelte-w9wzam"><svg fill="none" height="140" id="logo-icon" viewBox="0 0 620 140" width="620" xmlns="http://www.w3.org/2000/svg" class="svelte-w9wzam"><g id="icon" transform="matrix(.27501 0 0 .27501 -3.3972 -1.0679)" class="svelte-w9wzam"><path id="tail" d="m205.62 14.632c34.18 3.5 65.33 20.69 85.4 48.75 7.32 10.24 12.07 21.59 14.24 34.02 0.47 0.69 0.77 0.47 0.89-0.67 0.13-8.6-1.67-16.74-5.39-24.44-0.13-0.27-0.1-0.28 0.1-0.06 7.02 8.31 12.59 17.51 16.7 27.6 3.24 7.63 5.35 15.49 6.33 23.61 0.74 6.14 0.69 12.1-0.15 17.88-1.59 10.97-5.54 21.15-11.84 30.55-5.96 8.89-13.29 16.8-21.99 23.73-7.19 5.72-14.42 10.68-21.67 14.86-11.76 6.73-23.96 12.57-36.58 17.53-14.1 5.53-28.47 10.3-43.08 14.28l-23.33 6.06c-2.62 0.5-20.11 5.84-23.55 7.03-10.21 3.53-19.95 8.06-29.21 13.61-17.85 10.69-31.67 24.45-39.37 43.4-3.02 7.41-6 12.25-7.44 26.7-0.26 2.08 0.14 5.88-0.07 12.03 0.37 7.12 1.34 14.15 2.92 21.09 3.34 12.61 8.37 24.5 15.1 35.67 10.76 16.84 24.12 30.76 40.06 41.77 6.22 4.3 13.59 8.73 22.11 13.29 0.28 0.15 0.44 0.32 0.48 0.5 0.03 0.15 0.01 0.3-0.07 0.44-0.1 0.18-0.37 0.26-0.63 0.17-8.27-2.89-17.74-7.02-28.39-12.38-16.34-8.21-30.76-17.73-43.28-28.54-8.99-7.73-16.74-16.56-23.25-26.47-6.74-10.22-11.53-21.28-14.36-33.2 0.51-0.38 0.25-0.19 0 0-2.22-9.45-2.96-19.02-2.24-28.71 0.29-7.17 1.37-14.23 3.23-21.16 5-18.68 14.17-36.06 27.52-52.14 9-10.84 19.15-19.61 30.45-26.3 4.74-2.8 11-5.96 18.79-9.47 3.62-1.64 9.99-4.84 19.12-9.63 18.45-9.65 35.67-21.13 51.65-34.45 10.1-8.41 18.45-18.27 25.06-29.6 10.05-17.19 10.14-34.41 0.27-51.66-8.89-13.29-20.52-23.46-34.89-30.51-5.07-2.49-10.65-4.4-16.73-5.73-1.01-0.22-1.02-0.5-0.05-0.84 6-2.04 12.05-2.8 18.16-2.28 0.29 0.03 0.31-0.02 0.04-0.16-6.46-3.26-13.34-4.59-20.63-4-16.36 1.33-28.3 9.13-35.82 23.42-0.48 0.92-0.6 0.87-0.35-0.14 1.64-6.71 4.22-13.03 7.74-18.95 5.02-8.46 10.96-16.21 17.81-23.25 0.43-0.45 0.46-0.7 0.09-0.76-0.23-0.03-0.5 0.06-0.74 0.25-4.09 3.03-7.79 6.49-11.11 10.36-0.31 0.36-0.44 0.34-0.39-0.06 0.01-0.13 0.07-0.29 0.17-0.46 5.97-10.68 14.31-18.72 25.01-24.11 14.64-7.37 30.36-10.19 47.16-8.47z" fill="url(#linearGradient13)" style="fill:url(#linearGradient13)" class="svelte-w9wzam"></path><path id="eye" d="m368.39 318.65c2.78 1.39 5.29 3.15 7.53 5.27 1.57 1.49 2.45 3.21 2.65 5.16 0.21 1.95-0.37 3.62-1.72 5.01-1.94 2-4.4 2.18-7.38 0.55-1.61-0.88-2.63-2.42-3.07-4.63-0.75-3.74-0.48-7.36 0.8-10.89 0-0.01 0.01-0.03 0.02-0.05 0.18-0.43 0.69-0.63 1.12-0.44 0.02 0 0.03 0.01 0.05 0.02z" fill="var(--color--eye-fill)" style="fill:var(--color--eye-fill)" class="svelte-w9wzam"></path>
+            /&gt;
+            <path id="pretail" d="m166.63 469.58c-17.596-5.2061-33.364-14.899-49.07-30.164-23.444-22.786-38.031-50.477-41.271-78.348-4.0358-34.715 17.287-71.703 51.346-89.067 12.974-6.6146 22.903-10.103 49.628-17.435 15.645-4.2921 49.184-15.227 61.669-20.106 13.645-5.332 32.075-14.699 42.466-21.583 25.014-16.572 42.123-36.718 48.407-56.997 1.9237-6.2081 3.6284-15.836 3.7475-21.165l0.0873-3.9043 0.56811 4.8211c0.67851 5.758 0.16305 16.354-1.1414 23.462-7.013 38.217-35.122 74.826-86.257 112.34l-8.06 5.9131-9.0486-0.19788c-26.232-0.57365-51.031 5.8875-68.915 17.956-16.417 11.078-30.639 30.063-37.183 49.635-4.2261 12.64-6.1084 28.509-4.9136 41.425 1.3598 14.701 4.0957 24.405 10.648 37.765 10.235 20.871 24.282 36.215 40.693 44.452 4.4275 2.222 5.1793 2.7877 3.6688 2.7605-1.0449-0.0182-4.2261-0.72249-7.0693-1.5637z" fill="url(#linearGradient1143)" style="fill:url(#linearGradient1143)" class="svelte-w9wzam"></path><path id="body" d="m180.8 470.94c-20.446-6.6486-37.768-23.221-49.81-47.654-4.6085-9.3504-7.1257-16.474-9.1062-25.769-1.9734-9.2621-2.1543-28.765-0.35127-37.869 2.7457-13.864 7.7488-26.277 14.879-36.914 17.036-25.416 40.829-39.198 74.531-43.173 10.499-1.2383 32.923-0.39651 43.138 1.6194 23.606 4.6585 22.475 4.5153 35.676 4.5127 6.8941-1e-3 13.33-0.21727 14.302-0.47975 2.3629-0.63791 2.2729-2.3123-0.15028-2.7969-1.0615-0.21229-1.7386-0.67394-1.5162-1.0338 0.38934-0.62996 5.2983-0.38881 11.716 0.57553 3.9092 0.58744 3.301-0.74549-1.2323-2.7011l-3.5136-1.5157 2.9703-0.0258c1.6337-0.0142 5.9726 0.84018 9.6421 1.8986 6.8511 1.9762 8.9216 2.3079 8.9216 1.4293 0-0.27672 2.0124-0.38941 4.4721-0.25043 8.3589 0.47232 16.705-3.2204 22.082-9.7703 5.2727-6.4226 9.1-9.8083 12.333-10.91 9.3563-3.188 14.695 1.6583 11.573 10.506-0.53032 1.5031-0.96421 3.6901-0.96421 4.86 0 3.1945-0.77391 4.6959-5.0726 9.8409-4.8569 5.8132-5.0437 7.7973-0.73379 7.7973 2.0724 0 8.793 7.9602 11.539 13.668 3.9339 8.1757 5.5993 15.764 7.7923 35.507 1.642 14.783-2.5398 26.59-10.749 30.348-4.5541 2.0849-7.5632 1.788-17.859-1.762-20.142-6.9452-31.144-15.456-37.686-29.153-2.5951-5.4328-2.353-7.7245 1.6219-15.355 3.169-6.0832 3.4108-6.8977 2.0472-6.8977-2.8135 0-8.8059 10.114-10.106 17.058-3.357 17.925 8.984 39.99 26.737 47.803 5.4207 2.3857 8.0431 5.8083 8.0431 10.498 0 4.647-4.4885 9.492-8.7936 9.492-3.4845 0-6.3461-1.5724-12.631-6.9408-17.314-14.789-30.233-22.443-46.509-27.554-7.2707-2.2833-7.9956-2.3867-16.917-2.4136-10.694-0.0327-14.524 0.76751-22.87 4.7756-6.8314 3.2808-13.528 8.5981-17.956 14.256-4.2307 5.407-3.9268 6.9406 0.67875 3.4251 7.3029-5.5745 14.488-7.7229 24.136-7.2167 17.94 0.94128 35.35 13.435 40.787 29.269 3.2345 9.4212 2.6367 17.861-1.943 27.433l-2.1529 4.4997-0.0553-4.301c-0.0489-3.8103-0.776-5.7988-1.7604-4.8145-0.18366 0.18364-1.0489 3.1495-1.9227 6.5907-1.7199 6.7731-3.0724 9.8078-5.7092 12.81-1.2422 1.4143-1.5822 1.5857-1.275 0.64279 2.1965-6.7417 2.7182-11.112 1.5804-13.238-0.91349-1.7069-1.6625-1.0833-2.1873 1.8209-0.24028 1.3297-1.6128 4.8656-3.05 7.8574-3.386 7.0488-11.303 15.208-18.287 18.844l-4.5936 2.3923-34.618-0.0291c-34.233-0.0291-34.668-0.0451-39.117-1.492zm194.71-135.49c2.1569-0.98273 3.8074-4.5591 3.2582-7.0597-0.23509-1.0703-1.3398-2.9877-2.455-4.2608-2.1028-2.4007-7.1741-5.9462-8.5052-5.9462-0.93327 0-2.2134 4.8266-2.164 8.159 0.0571 3.8525 1.3624 6.7623 3.7549 8.371 2.448 1.646 3.7666 1.8049 6.1111 0.7367z" fill="url(#linearGradient1135)" style="fill:url(#linearGradient1135)" class="svelte-w9wzam"></path></g><g id="book" transform="translate(10)" class="svelte-w9wzam"><text id="name" x="48.281651" y="48.032921" fill="#ffffff" font-size="80px" letter-spacing="-5.5px" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline" xml:space="preserve" class="svelte-w9wzam"><tspan x="124.06601" y="128.382" dx="-27.500719" fill="var(--color--text)" font-family="'Montserrat Alternates'" font-size="80px" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline" class="svelte-w9wzam">ИнтеРешки</tspan></text><path id="cover" d="m385.92 77.312c61.862 0.07805 122.79-0.08117 187.13 0h4.444c32.064 0 32.064 58.297 0 58.297l-3.819 0.0703h-535.37" fill="none" stroke="var(--color--cover-stroke)" stroke-linecap="round" stroke-width="6" class="svelte-w9wzam"></path></g><defs><linearGradient id="linearGradient13" x1="97.017" x2="136.14" y1="445.62" y2="6.5177" gradientTransform="translate(33.791 14.142)" gradientUnits="userSpaceOnUse"><stop style="stop-color:var(--color--tail-stop-1);stop-opacity:1;" offset="0"></stop><stop style="stop-color:var(--color--tail-stop-2);stop-opacity:1;" offset=".5"></stop><stop style="stop-color:var(--color--tail-stop-3);stop-opacity:1;" offset="1"></stop></linearGradient><linearGradient id="linearGradient1135" x1="28.082" x2="103.43" y1="100.6" y2="100.6" gradientTransform="matrix(3.6363 0 0 3.6363 18.171 -.0035471)" gradientUnits="userSpaceOnUse"><stop style="stop-color:var(--color--body-stop-1);stop-opacity:1;" offset="0"></stop><stop style="stop-color:var(--color--body-stop-2);stop-opacity:1;" offset=".5"></stop><stop style="stop-color:var(--color--body-stop-3);stop-opacity:1;" offset="1"></stop></linearGradient><linearGradient id="linearGradient1143" x1="15.849" x2="86.995" y1="82.771" y2="82.771" gradientTransform="matrix(3.6363 0 0 3.6363 18.171 -.0035471)" gradientUnits="userSpaceOnUse"><stop style="stop-color:var(--color--pretail-stop-1);stop-opacity:1;" offset="0"></stop><stop style="stop-color:var(--color--pretail-stop-2);stop-opacity:1;" offset="1"></stop></linearGradient></defs></svg>
+</div></a>
+		<div class="links svelte-8qjn1o"><a href="/blog" class="svelte-8qjn1o">Журнал</a>
+			<a href="/geocards" class="svelte-8qjn1o">Гео!</a>
+			<a href="/quiz" class="svelte-8qjn1o">Гео?</a>
+
+
+			<a href="/game" class="svelte-8qjn1o">Игра</a>
+			<a href="mailto:info@ityum.online" target="_blank" rel="noopener noreferrer" title="Напишите нам письмо!" class="svelte-1llmev"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 9L12 12.5L17 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M2 17V7C2 5.89543 2.89543 5 4 5H20C21.1046 5 22 5.89543 22 7V17C22 18.1046 21.1046 19 20 19H4C2.89543 19 2 18.1046 2 17Z" stroke="currentColor" stroke-width="1.5"></path></svg></a>
+			<noscript>
+	<style>.theme-toggle {
+			display: none !important;
+		}
+	</style></noscript>
+<button class="theme-toggle svelte-1jy3amv" title="Переключиться между тёмным и светлым режимом"><svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24"><mask id="moon" class="svelte-1jy3amv"><rect x="0" y="0" width="100%" height="100%" fill="white" class="svelte-1jy3amv"></rect><circle cx="40" cy="8" r="11" fill="black" class="svelte-1jy3amv"></circle></mask><circle id="sun" cx="12" cy="12" r="11" mask="url(#moon)" class="svelte-1jy3amv"></circle><g id="sun-beams" class="svelte-1jy3amv"><line x1="12" y1="1" x2="12" y2="3" class="svelte-1jy3amv"></line><line x1="12" y1="21" x2="12" y2="23" class="svelte-1jy3amv"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="svelte-1jy3amv"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="svelte-1jy3amv"></line><line x1="1" y1="12" x2="3" y2="12" class="svelte-1jy3amv"></line><line x1="21" y1="12" x2="23" y2="12" class="svelte-1jy3amv"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="svelte-1jy3amv"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="svelte-1jy3amv"></line></g></svg>
+	<span class="label svelte-1jy3amv">Тёмная</span>
+</button></div></nav>
+</header>
+	<main><article id="article-content" class="svelte-16rhd84"><div class="header svelte-16rhd84"><h1>Витус Беринг</h1>
+					<div class="note svelte-16rhd84">Опубликовано 18 February 2022</div>
+					
+					
+					<div class="tags svelte-16rhd84"><div class="tag primary svelte-x36tma">Русские путешественники</div></div></div>
+			<div class="cover-image svelte-16rhd84"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/cover.2b28e064.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/cover.d09eb30f.webp" type="image/webp">
+	<img src="/_app/immutable/assets/cover.369bec90.png" alt="Cover Image" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+</picture></div>
+			<div class="content svelte-16rhd84"><div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	Офицер российского флота, капитан-командор. По происхождению датчанин. Его имя, адаптированное на русский язык - Иван Беринг. В 1725–1730 и 1733–1741 годах руководил Первой и Второй Камчатскими экспедициями. Прошёл по проливу между Чукоткой и Аляской (впоследствии Берингов пролив), достиг Северной Америки и открыл ряд островов Алеутской гряды.
+
+</div>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image8.898de702.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image8.f1d80157.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image8.befa5660.png" alt="Пакетбот «Св. Пётр»" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Пакетбот «Св. Пётр»<!-- HTML_TAG_END --></figcaption>
+</picture>
+Первая Камчатская экспедиция была начата в декабре 1724 года после издания Петром I указа о создании постоянно действующего российского флота на Тихом океане, её целями были поиск мест для размещения портов базирования будущего Тихоокеанского флота, исследования вод Тихого океана.
+<p>Экспедиция Беринга впервые в истории Российского государства сделала точные и подробные описания и карты самых крайних земель на северо-востоке, открыла гряду Алеутских островов, выяснила отсутствие мифической «земли Жуана-да-Гамы». Было доказано, что между Азиатской и Американской частями света есть морской пролив.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image6.a4503ff8.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image6.49ba880e.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image6.b685fc27.png" alt="Первая Камчатская экспедиция" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Первая Камчатская экспедиция<!-- HTML_TAG_END --></figcaption>
+</picture>
+И потом возникает идея Второй Камчатской экспедиции: надо не просто проплыть через этот пролив и доказать, что Америка не соединяется с Азией, а достичь самой Америки и понять, действительно ли это Америка или это что-то совсем другое — и что там вообще есть. Этот грандиозный план принято называть в историографии не просто Второй Камчатской экспедицией Беринга, а Великой Северной экспедицией. Задумка была в том, чтобы пройти, описать и картографировать все побережье Северного Ледовитого океана на Азиатском материке. Дать культурное, этнографическое, зоологическое, флористическое и, безусловно, морское описание.
+<p>Все поставленные цели были выполнены, но корабль Беринга - пакетбот “Святой Пётр” – потерпел крушение у Берингова острова. Там Витус скончался от сердечного приступа.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image7.d9c428ab.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image7.73dd6cf4.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image7.89aa9cdb.png" alt="Вторая Камчатская экспедиция" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Вторая Камчатская экспедиция<!-- HTML_TAG_END --></figcaption>
+</picture>
+В его честь были названы Берингов пролив, Берингово море, Берингов остров, Берингов ледник, озеро Витус и Берингов Сухопутный мост.
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image4.6238312e.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image4.3ebc40a7.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image4.00535922.png" alt="Дядя Витуса Беринга, Витус Педерсен Беринг" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Дядя Витуса Беринга, Витус Педерсен Беринг<!-- HTML_TAG_END --></figcaption>
+</picture>
+Интересный факт: на портретах Витуса Беринга чаще всего изображён его дядя поэт, в честь которого и был назван будущий командор.</div></article>
+		</main>
+	<footer class="svelte-1m94jhe"><div class="wave"><svg width="100%" height="120" viewBox="0 0 1440 120" fill="none" style="transform: scale(-1,-1)" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" class="footer__wave"><path d="M0 0L48 8.875C96 17.9167 192 35.4167 288 53.3333C384 71.25 480 88.75 576 82.2083C672 75.4167 768 44.5833 864 26.6667C960 8.75 1056 4.58333 1152 11.125C1248 17.9167 1344 35.4167 1392 44.4583L1440 53.3333V120H1392C1344 120 1248 120 1152 120C1056 120 960 120 864 120C768 120 672 120 576 120C480 120 384 120 288 120C192 120 96 120 48 120H0V0Z" fill="var(--body-background-color)"></path></svg></div>
+	<div class="content svelte-1m94jhe"><div class="copyright">© 2023 Новосибирск, Россия.
+		</div>
+		<div class="credits svelte-1m94jhe">Под капотом - <a href="https://kit.svelte.dev/" target="_blank" rel="noopener noreferrer" class="svelte-1m94jhe">SvelteKit</a>. Иконки -
+			<a href="https://iconoir.com/" target="_blank" rel="noopener noreferrer" class="svelte-1m94jhe">Iconoir</a>.
+		</div>
+		<div class="socials svelte-1m94jhe"><div class="socials svelte-t4kqcq"><a href="https://t.me/ИнтеРешки" target="_blank" rel="noopener noreferrer" title="Интерешки в Телеграм" class="svelte-t4kqcq"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21 5L2 12.5L9 13.5M21 5L18.5 20L9 13.5M21 5L9 13.5M9 13.5V19L12.2488 15.7229" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></a>
+
+
+
+
+
+
+
+
+	<a href="https://github.com/KoRSiGit" target="_blank" rel="noopener noreferrer" title="Наш профиль в GitHub" class="svelte-t4kqcq"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16 22.0268V19.1568C16.0375 18.68 15.9731 18.2006 15.811 17.7506C15.6489 17.3006 15.3929 16.8902 15.06 16.5468C18.2 16.1968 21.5 15.0068 21.5 9.54679C21.4997 8.15062 20.9627 6.80799 20 5.79679C20.4558 4.5753 20.4236 3.22514 19.91 2.02679C19.91 2.02679 18.73 1.67679 16 3.50679C13.708 2.88561 11.292 2.88561 8.99999 3.50679C6.26999 1.67679 5.08999 2.02679 5.08999 2.02679C4.57636 3.22514 4.54413 4.5753 4.99999 5.79679C4.03011 6.81549 3.49251 8.17026 3.49999 9.57679C3.49999 14.9968 6.79998 16.1868 9.93998 16.5768C9.61098 16.9168 9.35725 17.3222 9.19529 17.7667C9.03334 18.2112 8.96679 18.6849 8.99999 19.1568V22.0268" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M9 20.0267C6 20.9999 3.5 20.0267 2 17.0267" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></a>
+
+
+
+
+
+
+
+
+	<a href="mailto:info@ityum.online" target="_blank" rel="noopener noreferrer" title="Напишите нам письмо" class="svelte-t4kqcq"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 9L12 12.5L17 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M2 17V7C2 5.89543 2.89543 5 4 5H20C21.1046 5 22 5.89543 22 7V17C22 18.1046 21.1046 19 20 19H4C2.89543 19 2 18.1046 2 17Z" stroke="currentColor" stroke-width="1.5"></path></svg></a>
+</div>
+
+			<noscript>
+	<style>.theme-toggle {
+			display: none !important;
+		}
+	</style></noscript>
+<button class="theme-toggle svelte-1jy3amv" title="Переключиться между тёмным и светлым режимом"><svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24"><mask id="moon" class="svelte-1jy3amv"><rect x="0" y="0" width="100%" height="100%" fill="white" class="svelte-1jy3amv"></rect><circle cx="40" cy="8" r="11" fill="black" class="svelte-1jy3amv"></circle></mask><circle id="sun" cx="12" cy="12" r="11" mask="url(#moon)" class="svelte-1jy3amv"></circle><g id="sun-beams" class="svelte-1jy3amv"><line x1="12" y1="1" x2="12" y2="3" class="svelte-1jy3amv"></line><line x1="12" y1="21" x2="12" y2="23" class="svelte-1jy3amv"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="svelte-1jy3amv"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="svelte-1jy3amv"></line><line x1="1" y1="12" x2="3" y2="12" class="svelte-1jy3amv"></line><line x1="21" y1="12" x2="23" y2="12" class="svelte-1jy3amv"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="svelte-1jy3amv"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="svelte-1jy3amv"></line></g></svg>
+	<span class="label svelte-1jy3amv">Тёмная</span>
+</button></div></div>
+</footer>
+</div>
+
+			
+			<script>
+				{
+					__sveltekit_1yehc0i = {
+						env: {},
+						base: new URL(".", location).pathname.slice(0, -1),
+						element: document.currentScript.parentElement
+					};
+
+					const data = [null,{"type":"data","data":{post:{slug:"bering",title:"Витус Беринг",date:"2022-02-18T00:00:00.000Z",excerpt:"Офицер российского флота, капитан-командор. По происхождению датчанин. Его имя, адаптированное на русский язык - Иван Беринг.",example:"В 1725-1730 и 1733-1741 годах руководил Первой и Второй Камчатскими экспедициями. Прошёл по проливу между Чукоткой и Аляской (впоследствии Берингов пролив), достиг Северной Америки и открыл ряд островов Алеутской гряды.",transcription:"fleksəbl",soundGB:"https:\u002F\u002Fapi.lingvolive.com\u002Fsounds?uri=LingvoUniversal%20(En-Ru)%2Fflexible.wav;",soundUS:"https:\u002F\u002Fapi.lingvolive.com\u002Fsounds?uri=LingvoUniversal%20(En-Ru)%2F5036.wav;",tags:["Русские путешественники"],categories:["Geocard"],coverImage:{avif:"\u002F_app\u002Fimmutable\u002Fassets\u002Fcover.2b28e064.avif",webp:"\u002F_app\u002Fimmutable\u002Fassets\u002Fcover.d09eb30f.webp",png:"\u002F_app\u002Fimmutable\u002Fassets\u002Fcover.369bec90.png"},html:void 0}},"uses":{"url":1}},null];
+
+					Promise.all([
+						import("./_app/immutable/entry/start.b50570a7.js"),
+						import("./_app/immutable/entry/app.12cfb96a.js")
+					]).then(([kit, app]) => {
+						kit.start(app, __sveltekit_1yehc0i.element, {
+							node_ids: [0, 4, 19],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

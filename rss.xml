@@ -1,0 +1,263 @@
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+  <channel>
+    <atom:link href="http://wwww.fantinel.dev/rss.xml" rel="self" type="application/rss+xml" />
+    <title>ИнтеРешки</title>
+    <link>https://ityum.online</link>
+    <description>Разные интереcности. </description>
+    <image>
+      <url>https://ityum.online/favicons/favicon-32x32.png</url>
+      <title>ИнтеРешки</title>
+      <link>https://ityum.online</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    
+        <item>
+          <guid>https://ityum.online/march8</guid>
+          <title>История возникновения 8 марта</title>
+          <description>Коротко о возникновении и создателе Праздника</description>
+          <link>https://ityum.online/march8</link>
+          <pubDate>Mon, 06 Mar 2023 07:00:00 +0700</pubDate>
+          <category>Праздник</category><category>Интересное</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/march8">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	<span class="text-info">Говоря о борьбе женщин за равноправие, часто упоминают Клару Цеткин. Именно её считают основательницей Международного женского дня. </span>
+</div>
+<h2 id="митинг-феминисток"><a class="heading-link" title="Permalink" aria-hidden="true" href="#митинг-феминисток"><span>#</span></a>Митинг феминисток</h2>
+<p>История возникновения Международного женского дня берёт начало в 20-м веке. 28 февраля 1908 в Нью-Йорке состоялся митинг с участием около 15 тысяч женщин. Инициатором данного шествия стала социал-демократическая женская организация. Причина митинга – стремление женщин получить равные права с мужчинами (преимущественно трудовые), а также иметь возможность участвовать в выборах.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/map.0043e4ab.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/map.fc44155a.webp" type="image/webp">
+	<img src="/_app/immutable/assets/map.2dc2b20b.png" alt="Красный – выходной, оранжевый – выходной для женщин, желтый – отмечается без выходного" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Красный – выходной, оранжевый – выходной для женщин, желтый – отмечается без выходного<!-- HTML_TAG_END --></figcaption>
+</picture>
+<h2 id="рождение-праздника"><a class="heading-link" title="Permalink" aria-hidden="true" href="#рождение-праздника"><span>#</span></a>Рождение Праздника</h2>
+<p>Ровно через год социалисты учредили национальный день женщин. С 1909 по 1913 его отмечали строго в последнее воскресенье февраля. Говоря о борьбе женщин за равноправие, часто упоминают Клару Цеткин. Именно её считают основательницей Международного женского дня.</p>
+<h2 id="основательница"><a class="heading-link" title="Permalink" aria-hidden="true" href="#основательница"><span>#</span></a>Основательница</h2>
+<p>Клара Цеткин – известная политическая деятельница родом из Германии, активистка движения, которое сейчас называется феминизмом, принимала участие в формировании Коммунистической партии Германии. 27 августа 1910 она посещала Вторую Международную социалистическую женскую конференцию в Копенгагене, где встречалась с американскими делегатками.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/cetkin.43a637eb.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/cetkin.1e950190.webp" type="image/webp">
+	<img src="/_app/immutable/assets/cetkin.19fbf685.png" alt="Клара Цеткин" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Клара Цеткин<!-- HTML_TAG_END --></figcaption>
+</picture>
+<h2 id="праздничные-мероприятия"><a class="heading-link" title="Permalink" aria-hidden="true" href="#праздничные-мероприятия"><span>#</span></a>Праздничные мероприятия</h2>
+<p>1975 год стал Международным годом женщин, и Организация Объединенных Наций начинает всячески их поддерживать. С этого момента ежегодно 8 марта ООН проводит различные мероприятия, которые посвящены борьбе женщин за равноправие. Также устанавливается определенная тема дня. Например, в 2019 году тема Международного женского дня звучала следующим образом: «Задумайся о равенстве, созидай дальновидно, разрабатывай новые методы в целях изменений». </p>
+<p><em><strong>Интересный факт:</strong></em> <mark class="primary svelte-1600vgs">в США, где и был учрежден праздник 8 марта, сейчас он мало кому известен и никак не отмечается. Женщин поздравляют в другие даты, такие как День святого Валентина и День Матери.</mark></p>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/basta.354722c1.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/basta.354722c1.png"/>          
+        </item>
+      
+        <item>
+          <guid>https://ityum.online/kamenka</guid>
+          <title>Благоустройство набережной реки Каменки</title>
+          <description>Предложения по созданию зоны отдыха</description>
+          <link>https://ityum.online/kamenka</link>
+          <pubDate>Mon, 19 Sep 2022 07:00:00 +0700</pubDate>
+          <category>Идеи</category><category>Экология</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/kamenka">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <ol><li><p>Организовать непредусмотренную основным проектом зону отдыха и игр для детей, а именно: отсыпать песком и устроить из природных материалов (к примеру, дерево) горки, зоны для игр с элементами из дерева по примеру детских игр с запуском корабликов по желобам.</p></li>
+<li><p>Для взрослых, наблюдающих за играющими детьми либо пришедших <div class="sparkle-wrapper svelte-exdx8u">
+	<span class="slot-wrapper svelte-exdx8u"><strong class="default svelte-8f8x6d">любоваться рекой</strong></span>
+</div>, предлагаю построить деревянные конструкции, одновременно представляющие собой место отдыха с гамаками (в них можно прилечь либо посидеть и покачаться как на качелях) и лестницу для игр детей.</p></li></ol>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image1.f835e21c.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image1.e258bf59.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image1.58a91685.png" alt="Места для наблюдения за детьми" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Места для наблюдения за детьми<!-- HTML_TAG_END --></figcaption>
+</picture>
+<ol start="3"><li><p>Предлагаю также, чтоб взрослые и дети находились в этой части зоны отдыха без обуви, как на пляже (обувь можно оставлять при входе в зону с песком и не носить с собой), чтобы быть ближе к природе и развивать свои тактильные ощущения.</p></li>
+<li><p>Возможно, помимо песка, следует сделать еще <mark class="primary svelte-1600vgs">«тактильные дорожки»</mark> из природных материалов, к примеру, из камней, собранных и привезенных с Алтая, мелкой гальки и газонной травы, чтобы ощущения были различными. Для примера я взяла идею тактильных дорожек города Кисловодска.</p></li></ol>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image2.d44cb34e.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image2.9fbe0f3b.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image2.db9201b1.png" alt="Тактильные дорожки" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Тактильные дорожки<!-- HTML_TAG_END --></figcaption>
+</picture>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/cover.3f54351c.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/cover.3f54351c.png"/>          
+        </item>
+      
+        <item>
+          <guid>https://ityum.online/swift</guid>
+          <title>Памятка по уходу за стрижонком</title>
+          <description>Уход за стрижонком</description>
+          <link>https://ityum.online/swift</link>
+          <pubDate>Fri, 18 Feb 2022 07:00:00 +0700</pubDate>
+          <category>Юннат</category><category>Биология</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/swift">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <p>Если вы подобрали стрижонка, то внимательно осмотрите нет ли у него повреждений. Если повреждения есть, то отнесите его к врачу в ветеринарной клинике. Если повреждений нет, то вы можете сами его вырастить.</p>
+<ol><li><p>Поместите стрижонка в просторную коробку. Дно коробки застелите бумажными полотенцами. Из ткани сделайте ему гнёздышко. Часть коробки накройте, чтобы стрижонку было уютно.</p></li>
+<li><p>По фотографиям из интернета птенцов разных возрастов определите возраст стрижонка. От возраста стрижонка будет зависеть частота кормлений.
+Если хотите, можете дать ему имя.</p></li>
+<li><p>Кормить стрижонка нужно брюшками сверчков и мраморных тараканов. Стрижу <code>до 35-ти дней</code> в одно кормление дают <code>10–12 брюшек</code>. Приобрести их можно со специальных ферм или из зоомагазина.</p></li>
+<li><p>Ни в коем случае нельзя кормить стрижонка насекомыми, пойманными вами на природе и уж тем более дождевыми червями!</p></li>
+<li><p>Регулярно взвешивайте стрижонка на кухонных электронных весах. Точность взвешивания важна до одного грамма!</p></li>
+<li><p>Наблюдайте за ростом перьев стрижонка, это один из главных критериев готовности птицы к полёту.
+Маховые перья должны полностью выйти из трубочек-пеньков, а рулевых перьев должно быть <code>ровно 10</code>.</p></li>
+<li><p>Однажды стрижонок начнёт отказываться от еды и станет отжиматься на крыльях. Так он будет готовиться к вылету. Когда стрижу исполниться <code>40–44 дня</code>, то он будет готов покинуть «гнездо». Перед полётом стриж будет весить <code>39-41 г</code>.</p></li>
+<li><p>Вот как правильно выбрать место для выпускания стрижа:</p>
+<ul><li>Это должно быть большое открытое пространство.</li>
+<li>В небе должны летать стрижи.</li>
+<li>Не должно быть хищников <mark class="primary svelte-1600vgs">ни в воздухе, ни на земле </mark>.</li></ul></li>
+<li><p>Выпускайте стрижа со своей ладони.</p></li></ol>
+<p><a href="https://www.spastistrizha.ru/" rel="nofollow">Спасти стрижа</a></p>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/cover.f04655b5.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/cover.f04655b5.png"/>          
+        </item>
+      
+        <item>
+          <guid>https://ityum.online/snowflakes</guid>
+          <title>Снежинки, которых мы не знаем</title>
+          <description>Интересные факты о снежинках</description>
+          <link>https://ityum.online/snowflakes</link>
+          <pubDate>Sun, 06 Feb 2022 07:00:00 +0700</pubDate>
+          <category>Физика</category><category>Интересное</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/snowflakes">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	Впервые снежинки как кристаллы строгой формы описал немецкий астроном Иоганн Кеплер в работе «О шестиугольных снежинках» (1611 год).
+
+</div>
+<p>В 1635 году формой снежинок заинтересовался французский философ, математик и естествоиспытатель Рене Декарт, написавший трактат «Опыт о метеорах». Декарт впервые нашел и описал достаточно редкую двенадцатиконечную снежинку. До сих пор неясно, при каких условиях она образуется.</p>
+<p>В 1665 году Роберт Гук увидел с помощью микроскопа и опубликовал множество рисунков снежинок самой разной формы.</p>
+<h2 id="снежинки-и-их-разновидности"><a class="heading-link" title="Permalink" aria-hidden="true" href="#снежинки-и-их-разновидности"><span>#</span></a>Снежинки и их разновидности</h2>
+<p>В первой части фильма мы знакомимся с разнообразием.</p>
+<div class="video-container svelte-18bksg7"><iframe title="Youtube video" src="https://www.youtube.com/embed/-DZvsfI3O-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen sandbox="allow-scripts allow-same-origin" class="svelte-18bksg7"></iframe></div>
+<h2 id="секреты-образования-снежинок"><a class="heading-link" title="Permalink" aria-hidden="true" href="#секреты-образования-снежинок"><span>#</span></a>Секреты образования снежинок</h2>
+<p>Во второй части фильма раскрываются секреты возникновения фракталов - снежинок.</p>
+<div class="video-container svelte-18bksg7"><iframe title="Youtube video" src="https://www.youtube.com/embed/XzkP07XMgvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen sandbox="allow-scripts allow-same-origin" class="svelte-18bksg7"></iframe></div>
+<h2 id="классификация-типов-снежинок"><a class="heading-link" title="Permalink" aria-hidden="true" href="#классификация-типов-снежинок"><span>#</span></a>Классификация типов снежинок</h2>
+<p>Известно несколько классификаций снежных кристаллов. В 1951 году Комиссией снега и льда Международной ассоциации гидрологических наук предложена классификация, различающая семь основных форм кристаллов:</p>
+<ul><li>пластинки,</li>
+<li>звездчатые кристаллы,</li>
+<li>столбцы или колонны,</li>
+<li>иглы,</li>
+<li>пространственные дендриты,</li>
+<li>столбцы с наконечниками</li>
+<li>неправильные формы.</li></ul>
+<p>И еще три вида твердых осадков: мелкая снежная крупка, ледяная крупка и град.</p>
+<p>Существует и более развернутая классификация.</p>
+<p>При падении снежных кристаллов с ними может случиться многое - частичное таяние, столкновения друг с другом и с каплями воды. Вот почему наиболее часто встречаются нерегулярные кристаллы, не имеющие легко идентифицируемой формы. Иногда кристаллы представляют собой комбинацию нескольких форм.</p>
+<h2 id="формы-снежинок-при-различных-температурах-и-влажности"><a class="heading-link" title="Permalink" aria-hidden="true" href="#формы-снежинок-при-различных-температурах-и-влажности"><span>#</span></a>Формы снежинок при различных температурах и влажности</h2>
+<p>С понижением температуры обычно снежинки становятся более мелкими. Меняется и форма снежинок: от красивых правильных звездочек - к пластинкам и неправильным столбикам.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image1.b504e02c.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image1.601dde07.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image1.279d297a.png" alt="Модель структуры льда" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Модель структуры льда<!-- HTML_TAG_END --></figcaption>
+</picture>
+<p>Молекулы воды в кристалле льда формируют шестиугольную решетку. На рисунке ниже красные шары – это атомы кислорода, между ними – атомы водорода. Шестикратная симметрия снежинок берет свое начало от кристаллической решетки льда - между лучами кристалла возможны углы лишь в 60° и 120°. Каждая молекула воды окружена четырьмя ближайшими к ней молекулами, находящимися на одинаковых расстояниях от нее и размещенных в вершинах правильного тетраэдра.</p>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/cover.9b6b8294.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/cover.9b6b8294.png"/>          
+        </item>
+      
+        <item>
+          <guid>https://ityum.online/tardigrades</guid>
+          <title>Самые неприхотливые создания на Земле</title>
+          <description>Обзор возможностей интересного существа</description>
+          <link>https://ityum.online/tardigrades</link>
+          <pubDate>Fri, 04 Feb 2022 07:00:00 +0700</pubDate>
+          <category>Биология</category><category>Интересное</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/tardigrades">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	Учёные недавно обнаружили ДНК микроорганизма, называемого тихоходка или водяной медведь в подземном озере в Антарктике. Озеро &quot;Восток&quot; расположено глубоко подо льдом и не было на открытом воздухе 15 миллионов лет. Это делает его самым укромным уголком на планете. 
+
+</div>
+<h2 id="гость-с-далёких-планет"><a class="heading-link" title="Permalink" aria-hidden="true" href="#гость-с-далёких-планет"><span>#</span></a>Гость с далёких планет</h2>
+<p>Тихоходки - ценный организм для астрономов, изучающих жизнь на планетах с <div class="sparkle-wrapper svelte-exdx8u">
+	<span class="slot-wrapper svelte-exdx8u"><strong class="default svelte-8f8x6d">экстремальными</strong></span>
+</div> условиями.</p>
+<p>Тихоходки имеют анатомию, схожую с более крупными животными, включая наличие мозга, рта и пищеварительной системы.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/image1.daca56ba.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/image1.52ae632f.webp" type="image/webp">
+	<img src="/_app/immutable/assets/image1.f71526cc.png" alt="Схема режимов жизнедеятельности тихоходки" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Схема режимов жизнедеятельности тихоходки<!-- HTML_TAG_END --></figcaption>
+</picture>
+Оболочка или кутикула покрывает организм по мере роста.
+<blockquote><p>В экстремальных условиях организм переходит в разные режимы для обеспечения <em>выживаемости</em>.</p></blockquote>
+<h2 id="режимы-жизнедеятельности"><a class="heading-link" title="Permalink" aria-hidden="true" href="#режимы-жизнедеятельности"><span>#</span></a>Режимы жизнедеятельности</h2>
+<h3 id="аноксибиоз"><a class="heading-link" title="Permalink" aria-hidden="true" href="#аноксибиоз"><span>#</span></a>Аноксибиоз</h3>
+<p>В безвоздушных средах поток внутренних жидкостей нарушается, что вызывает отёк. </p>
+<h3 id="активность"><a class="heading-link" title="Permalink" aria-hidden="true" href="#активность"><span>#</span></a>Активность</h3>
+<p>Питание, рост, движение и размножение.</p>
+<h3 id="инцистирование"><a class="heading-link" title="Permalink" aria-hidden="true" href="#инцистирование"><span>#</span></a>Инцистирование</h3>
+<p>В неблагоприятных условиях организм оборачивается защитной оболочкой (цистой).</p>
+<h3 id="криптобиоз"><a class="heading-link" title="Permalink" aria-hidden="true" href="#криптобиоз"><span>#</span></a>Криптобиоз</h3>
+<p>Метаболизм приостанавливается и организм уменьшается в три раза.
+Эту форму называют “бочкой”. В ней тихоходка может пережить практически <strong>что угодно</strong>:</p>
+<ul><li>17 дней при температуре <code>-273°С</code></li>
+<li>20 месяцев при температуре <code>-200°С</code></li>
+<li>Жару до <code>150°С</code></li>
+<li>Давление в <code>6000 атмосфер</code></li>
+<li>Вакуум в космосе</li>
+<li>Рентгеновское и ультрафиолетовое излучение</li>
+<li>Чрезмерные концентрации углекислого газа, азота и сернистого газа</li>
+<li>Более <code>125 лет</code></li></ul>
+<p>Вот такое <mark class="primary svelte-1600vgs">уникальное</mark> создание!</p>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/cover.8c680243.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/cover.8c680243.png"/>          
+        </item>
+      
+  </channel>
+</rss>
