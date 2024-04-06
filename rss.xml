@@ -23,6 +23,352 @@
     </image>
     
         <item>
+          <guid>https://ityum.online/heraldic-elements</guid>
+          <title>Элементы герба</title>
+          <description>Элементы, из которых состоит герб</description>
+          <link>https://ityum.online/heraldic-elements</link>
+          <pubDate>Thu, 04 Apr 2024 07:00:00 +0700</pubDate>
+          <category>Геральдика</category><category>Интересное</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/heraldic-elements">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	<span class="text-info">Гербовые фигуры — все фигуры, размещённые в щите герба.</span>
+</div>
+<h2 id="гербовые-фигуры"><a class="heading-link" title="Permalink" aria-hidden="true" href="#гербовые-фигуры"><span>#</span></a>Гербовые фигуры</h2>
+<mark class="primary svelte-1600vgs">Принято считать, что гербовые фигуры — это символы, ведущие своё происхождение с рыцарских времён и связанные с традициями проведения рыцарских турниров.</mark>
+Однако некоторые геральдисты утверждают, что вначале возникла необходимость определённым образом делить плоскость щита для того, чтобы отличить одного участника состязаний от другого, а затем каждому типу деления было приписано то или иное символическое значение и смысловое наполнение гербовые фигуры обрели лишь впоследствии.
+<h3 id="геральдические-фигуры"><a class="heading-link" title="Permalink" aria-hidden="true" href="#геральдические-фигуры"><span>#</span></a>Геральдические фигуры</h3>
+<p>Геральдические фигуры - геометрические фигуры, образованные делением геральдического щита. Геральдические фигуры делятся на почетные и второстепенные.</p>
+<h3 id="почётные-геральдические-фигуры"><a class="heading-link" title="Permalink" aria-hidden="true" href="#почётные-геральдические-фигуры"><span>#</span></a>Почётные геральдические фигуры</h3>
+<p>Почётная геральдическая фигура, как правило, занимает третью часть площади щита. В описании герба данная фигура провозглашается первой, непосредственно после упоминания щита. Среди почетных выделяют главу, пояс, столб, оконечность, перевязь, стропило, кайму, крест, костыль.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/2.d11e254a.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/2.b2abdc89.webp" type="image/webp">
+	<img src="/_app/immutable/assets/2.549f9b32.png" alt="Почётные геральдические фигуры" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Почётные геральдические фигуры<!-- HTML_TAG_END --></figcaption>
+</picture>
+Столб представляет копьё рыцаря, перевязь — его перевязь, пояс — шарф, крест — меч, стропило — сапоги, а кайма — кольчугу и броню.
+<h3 id="второстепенные-геральдические-фигуры"><a class="heading-link" title="Permalink" aria-hidden="true" href="#второстепенные-геральдические-фигуры"><span>#</span></a>Второстепенные геральдические фигуры</h3>
+<p>Второстепенные геральдические фигуры произошли из почётных путём их уменьшения, урезания, удвоения, утроения и так далее. Они могут располагаться по направлениям почётных фигур, то есть в столб, в пояс, в крест и так далее, и помещаться на почётных фигурах. По своей форме они делятся в основном на треугольные («остриё», «клин», «треугольник»), четырёхугольные («квадрат», «брусок», «гонт», «ромб»), круглые («безант», «шар», «дуга») и условные («титло» или «турнирный воротник»).</p>
+<div class="grid-container svelte-1gx05ct"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/3.54042552.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/3.4832327d.webp" type="image/webp">
+	<img src="/_app/immutable/assets/3.aa230b4b.png" alt="Вольная часть" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Вольная часть<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/4.514a9ad5.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/4.aa777607.webp" type="image/webp">
+	<img src="/_app/immutable/assets/4.6f537004.png" alt="Квадрат" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Квадрат<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/5.6d972825.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/5.db6ba44f.webp" type="image/webp">
+	<img src="/_app/immutable/assets/5.41bf4807.png" alt="Клин" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Клин<!-- HTML_TAG_END --></figcaption>
+</picture></div>
+<div class="grid-container svelte-1gx05ct"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/6.9f39dc0a.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/6.862c7acd.webp" type="image/webp">
+	<img src="/_app/immutable/assets/6.1db7d46b.png" alt="Острие" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Острие<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/7.4dfaebd3.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/7.2783a110.webp" type="image/webp">
+	<img src="/_app/immutable/assets/7.9b4ff231.png" alt="Ромб" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Ромб<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/8.cfc711b9.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/8.ad549a2b.webp" type="image/webp">
+	<img src="/_app/immutable/assets/8.722f8a01.png" alt="Турнирный воротник" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Турнирный воротник<!-- HTML_TAG_END --></figcaption>
+</picture></div>
+Среди второстепенных наиболее часто встречаются вольная часть, турнирный воротник, квадрат, ромб, острие, клин.
+<h3 id="негеральдические-фигуры"><a class="heading-link" title="Permalink" aria-hidden="true" href="#негеральдические-фигуры"><span>#</span></a>Негеральдические фигуры</h3>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/9.411fd155.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/9.16d33455.webp" type="image/webp">
+	<img src="/_app/immutable/assets/9.d7c895e6.png" alt="Негеральдические фигуры" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Негеральдические фигуры<!-- HTML_TAG_END --></figcaption>
+</picture>
+Негеральдические фигуры — все гербовые фигуры, которые не относятся к геральдическим. По происхождению негеральдические фигуры делятся на естественные (животные, растения, люди и т. п.), искусственные (оружие, инструменты, строения и т. п.) и фантастические (гарпии, грифоны, двуглавые орлы, драконы и т. п.).
+<h2 id="положение-элементов"><a class="heading-link" title="Permalink" aria-hidden="true" href="#положение-элементов"><span>#</span></a>Положение элементов</h2>
+<p>Негеральдические фигуры имеют раличное расположение:</p>
+<h3 id="относительное-положение"><a class="heading-link" title="Permalink" aria-hidden="true" href="#относительное-положение"><span>#</span></a>Относительное положение</h3>
+<p>Каждая фигура имеет на щите определённое положение или не зависит от того, какая фигура, в каком положении она находится или какой вид имеет, а является лишь относительным к различным другим местам или фигурам.</p>
+<h3 id="абсолютное-положение"><a class="heading-link" title="Permalink" aria-hidden="true" href="#абсолютное-положение"><span>#</span></a>Абсолютное положение</h3>
+<p>Некоторые не геральдические фигуры имеют свои особенные формы, вид, положение, совершенно независящие от того в каком месте на щите фигура находится. </p>
+<h3 id="повёрнутое-или-обращённое-положение"><a class="heading-link" title="Permalink" aria-hidden="true" href="#повёрнутое-или-обращённое-положение"><span>#</span></a>Повёрнутое или обращённое положение</h3>
+<p>Все помещённые на щит фигуры должны быть обращены передней своей частью в правую сторону. Если они обращены влево, то такие фигуры называются повёрнутыми или обращёнными. Исключением из этого правила составляют фигуры плоские или круглые, помещенные впрямь и некоторые другие, имеющие свои особые положения. Человеческая фигура (пешая) обыкновенно изображается почти впрямь, лишь с незначительным поворотом вправо.</p>
+<h3 id="сходящееся-или-расходящиеся-положение"><a class="heading-link" title="Permalink" aria-hidden="true" href="#сходящееся-или-расходящиеся-положение"><span>#</span></a>Сходящееся или расходящиеся положение</h3>
+<p>Две фигуры иногда помещаются так, что передняя их части обращены или одна к другой, или в противоположные стороны. В первом случае фигуры называются сходящимися, а во втором расходящимися.</p>
+<h3 id="выходящая-или-возникающая-фигура"><a class="heading-link" title="Permalink" aria-hidden="true" href="#выходящая-или-возникающая-фигура"><span>#</span></a>Выходящая или возникающая фигура</h3>
+<p>Если видна меньшая, головная часть фигуры.</p>
+<h3 id="выглядывающая-фигура"><a class="heading-link" title="Permalink" aria-hidden="true" href="#выглядывающая-фигура"><span>#</span></a>Выглядывающая фигура</h3>
+<p>У изображения животных видны концы передних лап (иногда и хвост).</p>
+<ul><li>Оторванная фигура — у выходящих или выглядывающих фигур животных, в случае, если линия, по которой отделена часть от целого, не прямая, а неправильная, в виде клочков шерсти или извилистая.</li>
+<li>Скрещивающаяся фигура — фигуры изображённые на гербе пересекающимися.</li>
+<li>Расположенная в крест — скрещивающаяся фигура, которая пересекается образуя прямой крест.</li></ul>
+<h2 id="символическое-значение-изображений"><a class="heading-link" title="Permalink" aria-hidden="true" href="#символическое-значение-изображений"><span>#</span></a>Символическое значение изображений</h2>
+<ul><li>Дуб, медведь сила сопротивления, терпения</li>
+<li>Факел, раскрытая книга знание</li>
+<li>Пчела - трудолюбие</li>
+<li>Крылатый змей зло, смута</li>
+<li>Дракон - могущество</li>
+<li>Рука - храбрость</li>
+<li>Орел - победа</li>
+<li>Лев - символ власти, царского трона</li>
+<li>Леопард - храбрость, отвага</li>
+<li>Единорог - чистота, непорочность</li>
+<li>Ворон - долголетие</li>
+<li>Звезда ночь, вечность</li>
+<li>Солнце - свет, богатство, изобилие</li>
+<li>Собака - верность, преданность</li></ul>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/cover.5b95964a.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/cover.5b95964a.png"/>          
+        </item>
+      
+        <item>
+          <guid>https://ityum.online/heraldic-guard</guid>
+          <title>Щит</title>
+          <description>Главный элемент герба</description>
+          <link>https://ityum.online/heraldic-guard</link>
+          <pubDate>Thu, 04 Apr 2024 07:00:00 +0700</pubDate>
+          <category>Геральдика</category><category>Интересное</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/heraldic-guard">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	<span class="text-info">Щит представляет собой важнейшую часть герба. В разных странах применялись разные формы геральдических щитов – это обусловлено разными технологиями их изготовления.</span>
+</div>
+<h2 id="форма-щита"><a class="heading-link" title="Permalink" aria-hidden="true" href="#форма-щита"><span>#</span></a>Форма щита</h2>
+<p>Одной из наиболее распространённых форм рыцарского щита была треугольная, варяжская, которая первоначально и была введена в геральдику. Но так как на таком щите могло поместиться лишь незначительное число фигур, эта форма вскоре вышла из употребления. Традиционный гербовый щит был частью военного снаряжения мужчины и, разумеется, женщинам не подходил. Поэтому специально для женщин определили щит в форме ромба (“lozenge” - ромбовидный щит без навершия). Очевидно, это был намёк на веретено - непременный атрибут средневековой женщины.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/1.7e5f6b91.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/1.8cdad6c7.webp" type="image/webp">
+	<img src="/_app/immutable/assets/1.9437c3df.png" alt="Различные формы геральдических щитов" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Различные формы геральдических щитов<!-- HTML_TAG_END --></figcaption>
+</picture>
+<h2 id="деление-щита"><a class="heading-link" title="Permalink" aria-hidden="true" href="#деление-щита"><span>#</span></a>Деление щита</h2>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/2.0e48d43d.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/2.4064379a.webp" type="image/webp">
+	<img src="/_app/immutable/assets/2.41b5108e.png" alt="Деление щита" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Деление щита<!-- HTML_TAG_END --></figcaption>
+</picture>
+<p>В геральдике поле (<strong>фон</strong>) щита может быть разделено более чем на одну область или подразделение различных оттенков, обычно следующих линиям одного из ординария и носящих его имя (например, щит, разделённый в форме шеврона, называется разделённым «на шеврон»). Щиты могут быть разделены таким образом для различий (чтобы избежать конфликта с другими похожими гербами) или для целей сортировки (объединение двух или более гербов в один), или просто для стиля. Линии, разделяющие щит, не всегда могут быть прямыми, и существует система терминологии для описания узорчатых линий, которая также используется в геральдических ординарах.</p>
+<mark class="primary svelte-1600vgs">Французская геральдика во многих случаях использует иной подход.</mark>
+<p>Поле щита (или гербовой фиrуры) может быть покрыто сплошь эмалью или металлом одного цвета. Однако оно может представлять собой сочетание отделенных разноокрашенных полей. Поле, полученное <mark class="primary svelte-1600vgs">главным делением</mark>, - это поле щита, полученное в результате рассечения, пересечения или скошения щита по основным линиям деления. Поле, полученное <mark class="primary svelte-1600vgs">второстепенным делением</mark>, - поле, образованное рядом последовательных делений поверхности щита (обычно используется шесть полей).
+В отличие от геральдических фиrур ни главное, ни второстепенные поля не изображаются рельефными.</p>
+<h3 id="примеры"><a class="heading-link" title="Permalink" aria-hidden="true" href="#примеры"><span>#</span></a>Примеры</h3>
+<p>На гербе города Звягель (Украина) изображена необычная форма квартального расположения с сердцем, где одна четверть выделена, а остальные нет.
+Муниципальный герб Юлямаа, Финляндия: Верт, главный аргент из еловых веток.
+Муниципальный герб Мюльшё, Швеция: Лазурь, снежный кристалл серебристый, главная ель увенчана аргентом.</p>
+<div class="grid-container svelte-1gx05ct"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/3.91869260.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/3.2edd3c46.webp" type="image/webp">
+	<img src="/_app/immutable/assets/3.b2e7208d.png" alt="Герб Звягеля" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Герб Звягеля<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/4.734c83f1.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/4.5d14f8e2.webp" type="image/webp">
+	<img src="/_app/immutable/assets/4.90ac6517.png" alt="Герб Юлямаа" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Герб Юлямаа<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/5.0a08bc31.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/5.f56f2937.webp" type="image/webp">
+	<img src="/_app/immutable/assets/5.58692aa1.png" alt="Герб Мюльшё" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Герб Мюльшё<!-- HTML_TAG_END --></figcaption>
+</picture></div>
+<div class="grid-container svelte-iy636b"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/6.69699fdf.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/6.613a3005.webp" type="image/webp">
+	<img src="/_app/immutable/assets/6.a620fe38.png" alt="Пример двух гербов" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Пример двух гербов<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/7.32af64f9.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/7.89a246dd.webp" type="image/webp">
+	<img src="/_app/immutable/assets/7.09af4aa6.png" alt="Те же два слоя насажены на кол" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Те же два слоя насажены на кол<!-- HTML_TAG_END --></figcaption>
+</picture></div>
+<div class="grid-container svelte-iy636b"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/8.9b7a5569.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/8.ca2d90f9.webp" type="image/webp">
+	<img src="/_app/immutable/assets/8.2961e44f.png" alt="Пример четвертования двух гербов" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Пример четвертования двух гербов<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/9.28887ed6.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/9.8a860d5c.webp" type="image/webp">
+	<img src="/_app/immutable/assets/9.861d1622.png" alt="Пример использования герба в качестве щитка" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Пример использования герба в качестве щитка<!-- HTML_TAG_END --></figcaption>
+</picture></div>
+ 
+<mark class="primary svelte-1600vgs">Деление щита (сечение, разделение)</mark> - геральдический приём и термин, означающий разделение поля щита на две или более различно окрашенные части посредством прямых или фигурных линий. Преимущественно щит делят на несколько равных частей, гораздо реже встречается деление на неравные части. Линии деления, независимо от своей формы, всегда проходят в одном из четырёх возможных направлений: вертикально (в геральдике — рассечение), горизонтально (пересечение), диагонально слева (скошение справа) и диагонально справа (скошение слева). При делении одни тинктуры не накладываются на другие, деления не образуют гербовых фигур (хотя некоторые деления в зависимости от ситуации могут рассматриваться и как фигуры), поэтому основное правило геральдики в данном случае неприменимо.
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/10.d9b1d2e8.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/10.9226b0c4.webp" type="image/webp">
+	<img src="/_app/immutable/assets/10.dc3855bd.png" alt="Деления щита" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Деления щита<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/11.6c2bc7b4.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/11.aa60f017.webp" type="image/webp">
+	<img src="/_app/immutable/assets/11.62bb9df9.png" alt="Второстепенные деления щита" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Второстепенные деления щита<!-- HTML_TAG_END --></figcaption>
+</picture>
+<p>Деление щита на несколько частей обычно указывает на то, что герб является
+составным, то есть представляет собой объединение нескольких гербов в едином гербе. В связи с этим для новосозданных гербов деление щита, имеющего в каждой своей части самостоятельные фигуры, не рекомендуется.</p>
+<h3 id="простые-деления"><a class="heading-link" title="Permalink" aria-hidden="true" href="#простые-деления"><span>#</span></a>Простые деления</h3>
+<div class="grid-container svelte-iy636b"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/12.492c2483.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/12.9f213e30.webp" type="image/webp">
+	<img src="/_app/immutable/assets/12.6e02037f.png" alt="Рассечение" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Рассечение<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/13.6a412f0c.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/13.cd33f587.webp" type="image/webp">
+	<img src="/_app/immutable/assets/13.5a3b5500.png" alt="Пересечение" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Пересечение<!-- HTML_TAG_END --></figcaption>
+</picture></div>
+<div class="grid-container svelte-iy636b"><picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/15.921ac0a7.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/15.ae8bb4f9.webp" type="image/webp">
+	<img src="/_app/immutable/assets/15.420b5d40.png" alt="Скошение справа" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Скошение справа<!-- HTML_TAG_END --></figcaption>
+</picture>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/14.12735953.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/14.ba58d6f5.webp" type="image/webp">
+	<img src="/_app/immutable/assets/14.dffd9124.png" alt="Скошение слева" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Скошение слева<!-- HTML_TAG_END --></figcaption>
+</picture></div>
+Простых (основных, главных) деления четыре:
+<ul><li>по вертикальной линии, опущенной из середины верхнего края щита к середине нижнего — <mark class="primary svelte-1600vgs">рассечение</mark> (фр. parti);</li>
+<li>горизонтально из середины геральдически правой стороны к середине левой — <mark class="primary svelte-1600vgs">пересечение</mark> (фр. coupé);</li>
+<li>диагонально из правого верхнего угла в левый нижний — <mark class="primary svelte-1600vgs">скошение справа</mark> (фр. tranché);</li>
+<li>диагонально из левого верхнего угла в правый нижний — <mark class="primary svelte-1600vgs">скошение слева</mark> (фр. taillé).</li></ul>
+<p>Если щит имеет отличную от четырёхугольной форму, то линии деления проходят так, как будто он имеет таковую. То есть, если щит скошен, а его форма не содержит нижнего левого угла, куда должна проводиться линия деления (например, щит закруглён снизу), то щит условно вписывается в четырёхугольник, и линия проводится к углу этого условного прямоугольника, прерываясь при пересечении с реальным контуром щита4 .</p>
+<h3 id="составные-деления"><a class="heading-link" title="Permalink" aria-hidden="true" href="#составные-деления"><span>#</span></a>Составные деления</h3>
+<p>Деления, образованные сочетанием нескольких различных основных линий, называют составными (например, сочетание рассечения и пересечения). Сочетание основных делений приводит к тому, что поле делится не на две части, а на три и более частей. </p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/16.d7268ed4.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/16.a39cd727.webp" type="image/webp">
+	<img src="/_app/immutable/assets/16.f5e0a6ac.png" alt="Порядок описания полей щита" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Порядок описания полей щита<!-- HTML_TAG_END --></figcaption>
+</picture>
+<div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	<span class="text-info">Особую роль при описании разделённого щита играет порядок описания полученных при делении частей. Общим правилом является то, что первыми называются цвета частей, лежащих сверху и геральдически справа. Строгая иерархия описания частей позволяет избежать перегрузки блазонирования указанием на их положение, которое становится ясным уже из самого порядка их произнесения. В простом рассечённом щите первой будет называться его правая часть, в пересечённом — верхняя, в скошенном — та, что лежит сверху слева, в скошенном слева — лежащая сверху справа.</span>
+</div>
+<h3 id="истинные-и-неистинные-деления"><a class="heading-link" title="Permalink" aria-hidden="true" href="#истинные-и-неистинные-деления"><span>#</span></a>Истинные и неистинные деления</h3>
+<p>Деления щита подразделяются на истинные и неистинные. К первым относят те, в которых число полей одного цвета равно. Если имеется два цвета, то при истинном делении площадь полей, занятых одним цветом, будет составлять половину площади всего щита, если три цвета — треть, четыре — четверть и так далее. Соответственно неистинным называют такое деление, при котором один цвет занимает в щите больше пространства, чем другой или другие. Истинность или неистинность деления при описании герба не указывается.</p>
+<ul><li>Угловидное деление</li>
+<li>Дугообразное деление</li>
+<li>Выщербленное деление</li>
+<li>Чешуевидное деление</li>
+<li>Серповидное деление</li>
+<li>Ярмообразное деление</li></ul>
+<h3 id="фигурные-деления"><a class="heading-link" title="Permalink" aria-hidden="true" href="#фигурные-деления"><span>#</span></a>Фигурные деления</h3>
+<p>Деления щита могут быть произведены не только прямыми, но ломаными или кривыми (фигурными) линиями: зубцами, остриями, волнами, облаками и так далее. Это обстоятельство и послужило к образованию второстепенных делений щита. Такие линии называются фигурами деления или фигурными делениями. Линии деления, отличные от прямой, всегда отдельно указываются при геральдическом описании, так что изменение формы линии деления приводит к появлению нового герба. При этом фигурные деления могут применяться не только по отношению к основным, но и к составным делениям.</p>
+<ul><li>Зубчатое деление</li>
+<li>Гонтовидное деление</li>
+<li>Зубовидное деление</li>
+<li>Зазубренное деление</li>
+<li>Заострённое деление</li>
+<li>Волнистое деление</li>
+<li>Облачное деление</li>
+<li>Удвоенно-облачное деление</li>
+<li>Крестовидно-зубчатое деление</li>
+<li>Крюковидное деление</li>
+<li>Полукрюковидное деление</li>
+<li>Двойное зубчатое деление</li>
+<li>Скошенно-зубчатое деление</li>
+<li>Пламеневидное деление</li>
+<li>Заострённо-зубчатое деление</li>
+<li>Вызубренно-зубчатое деление</li>
+<li>Листовидное деление</li>
+<li>Клеверовидное деление</li></ul>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/cover.d5ae45d9.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/cover.d5ae45d9.png"/>          
+        </item>
+      
+        <item>
+          <guid>https://ityum.online/heraldic</guid>
+          <title>Введение в геральдику</title>
+          <description>Коротко о сути, элементах геральдики</description>
+          <link>https://ityum.online/heraldic</link>
+          <pubDate>Thu, 04 Apr 2024 07:00:00 +0700</pubDate>
+          <category>Геральдика</category><category>Интересное</category>
+          <content:encoded><![CDATA[
+            <div style="margin: 50px 0; font-style: italic;">
+              If anything looks wrong, 
+              <strong>
+                <a href="https://ityum.online/heraldic">
+                  read on the site!
+                </a>
+              </strong>
+            </div>
+
+            <div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	<span class="text-info">Гера́льдика (гербовéдение; от лат. heraldus — «глашáтай») </span> — специальная историческая дисциплина, занимающаяся изучением гербов, а также традиций и практики их использования.
+
+</div>
+<h2 id="определяемся-с-терминами"><a class="heading-link" title="Permalink" aria-hidden="true" href="#определяемся-с-терминами"><span>#</span></a>Определяемся с терминами</h2>
+<p>Является частью эмблематики — группы взаимосвязанных дисциплин, изучающих эмблемы. Отличие гербов от других эмблем заключается в том, что строение, употребление и правовой статус гербов соответствуют особым, исторически сложившимся правилам. Геральдика точно определяет, что и как может быть нанесено на государственный герб, фамильный герб и так далее, объясняет значение тех или иных фигур.
+Корни геральдики уходят в Средневековье, когда и был разработан специальный геральдический язык.</p>
+<mark class="primary svelte-1600vgs">Знаток геральдики</mark> - геральдист, геральдик, гербовед или арморист.
+<h2 id="праздник"><a class="heading-link" title="Permalink" aria-hidden="true" href="#праздник"><span>#</span></a>Праздник</h2>
+<p>10 июня празднуется Международный день геральдики.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/1.bd311a28.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/1.03b613cd.webp" type="image/webp">
+	<img src="/_app/immutable/assets/1.67e915e0.png" alt="Герб графа Орлова" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Герб графа Орлова<!-- HTML_TAG_END --></figcaption>
+</picture>
+<div class="callout-block info svelte-sxx0n0"><div class="icon-wrapper svelte-sxx0n0"><svg width="100%" height="100%" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 11.5V16.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 7.51L12.01 7.49889" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path></svg></div>
+	<span class="text-info">Гербы обычно состоят из следующих элементов: щит, шлем, намёт (выходящие из шлема украшения), корона, нашлемник, щитодержатели (изображения людей, аллегорических фигур или «геральдических зверей», стоящих на задних лапах), мантия и девиз.</span>
+</div>
+<h2 id="девиз"><a class="heading-link" title="Permalink" aria-hidden="true" href="#девиз"><span>#</span></a>Девиз</h2>
+<p><strong>Девиз</strong> - выразительное изречение, зачастую на латыни, афоризм, имеющий прямое или аллегорическое отношение к гербовладельцу.
+Единого правила о языке девиза в геральдике не существует. Чаще всего их было принято писать на латыни. Но важно, чтобы цвета ленты и букв должны соответствовать основной финифти и металлу герба.</p>
+<h2 id="самостоятельное-создание-герба"><a class="heading-link" title="Permalink" aria-hidden="true" href="#самостоятельное-создание-герба"><span>#</span></a>Самостоятельное создание герба</h2>
+<p>Ниже представлен созданный мной на основе 1 тома «Хроник Амбера» герб протагониста этого произведения – принца Корвина. Работа составлена с учётом всех правил, перечисленных в статье. На гербе изображена серебряная роза – брошь, его символ, и единорог – символ Амбера, королевства, в котором Корвин был принцем.</p>
+<picture class="svelte-1i298g1"><source srcset="/_app/immutable/assets/2.a1fbe1d6.avif" type="image/avif">
+	<source srcset="/_app/immutable/assets/2.5bcf435b.webp" type="image/webp">
+	<img src="/_app/immutable/assets/2.55e02f31.png" alt="Герб принца Корвина" loading="lazy" decoding="async" class="svelte-1i298g1">
+	
+		<figcaption><!-- HTML_TAG_START -->Герб принца Корвина<!-- HTML_TAG_END --></figcaption>
+</picture>
+          ]]></content:encoded>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ityum.online//_app/immutable/assets/cover.24df524c.png"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://ityum.online//_app/immutable/assets/cover.24df524c.png"/>          
+        </item>
+      
+        <item>
           <guid>https://ityum.online/march8</guid>
           <title>История возникновения 8 марта</title>
           <description>Коротко о возникновении и создателе Праздника</description>
