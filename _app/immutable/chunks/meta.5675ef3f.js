@@ -1,0 +1,1 @@
+const s="https://ityum.online",t=["ИнтеРешки","Молодой Журналист","Interesting","Journalist","Open Source"],e="Разные интереcности. ",i="ИнтеРешки",n=`${s}/images/site-preview.png`;export{e as d,n as i,t as k,s,i as t};
